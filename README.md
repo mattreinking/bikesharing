@@ -39,3 +39,6 @@ There is work to be done to convince investors that a bike-sharing program in De
 - Out of all riders in the month of August, 259,316 riders were male and subscribers on Thursdays at its peak.  
 
 ## Summary
+Based on the data above, Thursdays were the most popular day for riders. There also is quite a significant amount of riders overall in the month of August at over 2.3 million riders. Stats also show the most popular times to ride were towards the evening time which is most likely due to factors such as people getting off work and also Thursdays being the most popular day suggests people like to get rides in before the weekend hits. A bike-sharing program in Des Moines would be a very profitable business model during summertime.
+
+It would be beneficial in the future to perform another visualization analysis during the other seasons of the year to see if weather has an impact on the number of riders. Another analysis that would be beneficial to run would be the average distance of riders. This can give insight into the the main purpose of people using the bikes also planning out locations for bike stations.
