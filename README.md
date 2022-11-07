@@ -30,7 +30,7 @@ There is work to be done to convince investors that a bike-sharing program in De
 - Out of the 146,752 bikes, 5,624 bikes were checked out but unknown by what gender.  
 
 ![image](https://user-images.githubusercontent.com/86776606/200426529-30c1b3bf-1d52-40e8-9ab1-4a2f29f840b3.png)  
-- The darker the shade, the higher the number of riders there were. The heatmap shows the most popular times to ride was between 5PM-7PM on Thursdays.  
+- The darker the shade, the higher the number of riders there were. The heatmap shows the most popular times to ride were between 5PM-7PM on Thursdays.  
 
 ![image](https://user-images.githubusercontent.com/86776606/200427060-998b915c-54a7-4001-ada2-9d0aa86b0cc4.png)  
 - During the most popular times to ride, the majority of riders were male.  
