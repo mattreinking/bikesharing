@@ -8,7 +8,7 @@ There is work to be done to convince investors that a bike-sharing program in De
 ## Results
 
 ![image](https://user-images.githubusercontent.com/86776606/200422922-4b87afdc-e605-4758-af2a-041276917d61.png)  
-- The total number of riders in themonth of August is 2,344,224 riders.  
+- The total number of riders in the month of August is 2,344,224 riders.  
 
 ![image](https://user-images.githubusercontent.com/86776606/200423261-7505fab0-9a1a-492b-a364-24af1cd96e40.png)
 ![image](https://user-images.githubusercontent.com/86776606/200423305-f1c75fff-c39d-463a-bfd6-8b6478d93bb6.png)  
